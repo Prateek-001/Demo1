@@ -1,0 +1,43 @@
+
+
+.header{
+   min-height: 100px;
+   align-items: center;
+   text-align: center;
+}
+
+.sider{
+    min-height: 600px
+}
+
+.row1{
+    min-height: 600px;
+    background-color: purple;
+    align-items: center;
+    text-align: center;
+}
+
+
+.content1{
+    min-height: 350px;
+     background-color: red;
+}
+.content2{
+    min-height: 350px;
+    background-color: dimgray;
+}
+
+.card{
+    margin: 20px auto;
+    text-overflow: ellipsis;
+    overflow: auto;
+}
+
+.card-text{
+ text-overflow: ellipsis;
+ overflow: auto;    
+}
+
+.footer{
+    min-height: 10vw;
+}
